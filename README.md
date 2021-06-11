@@ -1,0 +1,1 @@
+# wordpress-plugin-paid-memberships-pro
