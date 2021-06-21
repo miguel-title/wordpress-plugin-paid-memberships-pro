@@ -166,7 +166,7 @@ function pmpro_gateways() {
 		'braintree'         => __( 'Braintree Payments', 'paid-memberships-pro' ),
 		'twocheckout'       => __( '2Checkout', 'paid-memberships-pro' ),
 		'cybersource'       => __( 'Cybersource', 'paid-memberships-pro' ),
-		'paypalbrazil'       => __( 'Paypal Brasil', 'paid-memberships-pro' ),
+		'paypalbrasil'       => __( 'Paypal Brasil', 'paid-memberships-pro' ),
 	);
 
 	if ( pmpro_onlyFreeLevels() ) {
